@@ -100,4 +100,4 @@ class Programmer:
         shubham.pin = pin
 
 p = Programmer("Shubham", 1540354, 86535)
-print(p.name, p.company, p.pin, p.salary)
+# print(p.name, p.company, p.pin, p.salary)
